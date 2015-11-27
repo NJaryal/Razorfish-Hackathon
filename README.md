@@ -5,5 +5,6 @@ Razorfish India - Hackathon is happening on first weekend of December. We believ
 </div>
 <h3>Refrences </h3>
 <div class="comment-body">
-<a href="http://www.young-targets.com/hackathon/">Hackethon Refrence 1</a>
+<a href="http://www.young-targets.com/hackathon/" target="_blank">Hackethon Refrence 1</a>
+<p>Please add more refrences to have better understanding and clarity.</p>
 </div>
